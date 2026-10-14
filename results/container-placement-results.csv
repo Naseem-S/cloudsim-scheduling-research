@@ -1,0 +1,6 @@
+container_allocation/host_selection,migration_lowest,migration_avg,migration_highest,energy_max,energy_avg
+FirstFit/FirstFit (MSThreshold-Under),300.02,43200.02,86100.02,10479683.82,5371220.101
+MostFull/MostFull (MSThreshold-Over),300.02,8550.2,16800.2,3588444,1939813
+Random/RandomSelection (VMThreshold-Under),300.02,43200.02,86100.02,14105298.02,7705594.48
+LeastFull/LeastFull (Cor),300.02,43200.02,86100.02,10547675.7,5614360.51
+LeastFull/MostFull (Cor),300.02,43200.02,86100.02,10339044.1,5431161.1
